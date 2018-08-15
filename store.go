@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"gopkg.in/go-on/securecookie.v1"
+	"github.com/go-on/securecookie"
 )
 
 // Store is an interface for custom session stores.

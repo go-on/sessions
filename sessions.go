@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"gopkg.in/go-on/context.v1"
+	"github.com/go-on/context"
 )
 
 // Default flashes key.

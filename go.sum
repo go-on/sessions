@@ -1,0 +1,4 @@
+github.com/go-on/context v1.1.1 h1:8/0tfVObg9VOVvegx7ogrVZ/8pr4ougkN7FQ6Rva0KM=
+github.com/go-on/context v1.1.1/go.mod h1:vcMFKPaIDnylT6U5Jhh76LK3PpvS6WlYowfeOIA2080=
+github.com/go-on/securecookie v0.0.0-20141120170742-f0559d009e69 h1:6S3+pyogb+9/wbM8cX0GPP0XFou4u+x9iD6Njkf3K5w=
+github.com/go-on/securecookie v0.0.0-20141120170742-f0559d009e69/go.mod h1:JPUFt1pJAvtzx03gYH0Qgi0NBxmddm3m4wtJKW5r/D0=
